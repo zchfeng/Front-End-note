@@ -1,18 +1,10 @@
-<!--
- * @Description:
- * @Author: chengfengZeng
- * @Date: 2022-01-24 15:44:22
- * @LastEditors: chengfengZeng
- * @LastEditTime: 2022-01-24 16:29:46
--->
-
 # Javascript
 
 | notes                                                                                 | notes                                                                         |
 | :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- |
-| [数据类型、数据类型判断](https://github.com/zchfeng/base/tree/master/pages/date-type) | [原型和原型练](https://github.com/zchfeng/base/tree/master/pages/prototype)   |
-| [new 运算符](https://github.com/zchfeng/base/tree/master/pages/new)                   | 实现 call、apply()                                                            |
-| [promist 的实现](https://github.com/zchfeng/base/tree/master/pages/my-promise)        | [深拷贝、浅拷贝](https://github.com/zchfeng/base/tree/master/pages/deep-copy) |
+| [数据类型、数据类型判断](https://github.com/zchfeng/base/tree/master/pages/date-type) | [原型和原型链](https://github.com/zchfeng/base/tree/master/pages/prototype)   |
+| [new 运算符](https://github.com/zchfeng/base/tree/master/pages/new)                   | [call、apply](https://github.com/zchfeng/base/issues/1)                       |
+| [promise 的实现](https://github.com/zchfeng/base/tree/master/pages/my-promise)        | [深拷贝、浅拷贝](https://github.com/zchfeng/base/tree/master/pages/deep-copy) |
 
 # React
 
@@ -22,9 +14,9 @@
 
 # Vue
 
-| notes            | notes |
-| :--------------- | :---- |
-| 简单实现一个 Vue | MvvM  |
+| notes                                                                                 | notes |
+| :------------------------------------------------------------------------------------ | :---- |
+| [模拟 Vue2 的响应式原理](https://github.com/zchfeng/base/tree/master/pages/vue2-mode) |
 
 # Taro、小程序
 
@@ -34,9 +26,10 @@
 
 # 算法
 
-| notes | notes |
-| :---- | :---- |
-| 栈    | 队列  |
+| notes                                                               | notes                                                               |
+| :------------------------------------------------------------------ | :------------------------------------------------------------------ |
+| [栈、队列](https://github.com/CodeNightGame/CodeNightGame/issues/7) | 数组、链表(https://github.com/CodeNightGame/CodeNightGame/issues/1) |
+| [动态规划](https://github.com/CodeNightGame/CodeNightGame/issues/2) | [滑动窗口](https://github.com/CodeNightGame/CodeNightGame/issues/3) |
 
 # Webpack
 
@@ -61,6 +54,6 @@
 
 # 一些业务功能
 
-| notes  | notes        |
-| :----- | :----------- |
-| 瀑布流 | 花式文字效果 |
+| notes                                                                      | notes |
+| :------------------------------------------------------------------------- | :---- |
+| [瀑布流](https://github.com/zchfeng/base/tree/master/pages/waterfall-flow) |
