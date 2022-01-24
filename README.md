@@ -3,16 +3,16 @@
  * @Author: chengfengZeng
  * @Date: 2022-01-24 15:44:22
  * @LastEditors: chengfengZeng
- * @LastEditTime: 2022-01-24 16:20:35
+ * @LastEditTime: 2022-01-24 16:29:46
 -->
 
 # Javascript
 
-| notes                                                                               | notes                                                                       |
-| :---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
-| 数据类型、数据类型判断(https://github.com/zchfeng/base/tree/master/pages/date-type) | 原型和原型练(https://github.com/zchfeng/base/tree/master/pages/prototype)   |
-| new 运算符(https://github.com/zchfeng/base/tree/master/pages/new)                   | 实现 call、apply                                                            |
-| promist 的实现(https://github.com/zchfeng/base/tree/master/pages/my-promise)        | 深拷贝、浅拷贝(https://github.com/zchfeng/base/tree/master/pages/deep-copy) |
+| notes                                                                                 | notes                                                                         |
+| :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- |
+| [数据类型、数据类型判断](https://github.com/zchfeng/base/tree/master/pages/date-type) | [原型和原型练](https://github.com/zchfeng/base/tree/master/pages/prototype)   |
+| [new 运算符](https://github.com/zchfeng/base/tree/master/pages/new)                   | 实现 call、apply()                                                            |
+| [promist 的实现](https://github.com/zchfeng/base/tree/master/pages/my-promise)        | [深拷贝、浅拷贝](https://github.com/zchfeng/base/tree/master/pages/deep-copy) |
 
 # React
 
