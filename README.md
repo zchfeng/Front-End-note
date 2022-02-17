@@ -3,19 +3,20 @@
  * @Author: chengfengZeng
  * @Date: 2022-01-24 15:44:22
  * @LastEditors: chengfengZeng
- * @LastEditTime: 2022-02-14 17:03:23
+ * @LastEditTime: 2022-02-17 17:12:17
 -->
 
 # Javascript
 
-| notes                                                                                 | notes                                                                         |
-| :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- |
-| [数据类型、数据类型判断](https://github.com/zchfeng/base/tree/master/pages/date-type) | [原型和原型链](https://github.com/zchfeng/base/tree/master/pages/prototype)   |
-| [new 运算符](https://github.com/zchfeng/base/tree/master/pages/new)                   | [call、apply](https://github.com/zchfeng/base/issues/1)                       |
-| [promise 的实现](https://github.com/zchfeng/base/tree/master/pages/my-promise)        | [深拷贝、浅拷贝](https://github.com/zchfeng/base/tree/master/pages/deep-copy) |
-| [数组](https://github.com/zchfeng/base/issues/2)                                      | 字符串                                                                        |
-| 对象                                                                                  | 函数                                                                          |
-| 闭包                                                                                  | 递归                                                                          |
+| notes                                                                                  | notes                                                                           |
+| :------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| [数据类型、数据类型判断](https://github.com/zchfeng/base/tree/master/pages/date-type)  | [原型和原型链](https://github.com/zchfeng/base/tree/master/pages/prototype)     |
+| [new 运算符](https://github.com/zchfeng/base/tree/master/pages/new)                    | [call、apply](https://github.com/zchfeng/base/issues/1)                         |
+| [promise 的实现](https://github.com/zchfeng/base/tree/master/pages/my-promise)         | [深拷贝、浅拷贝](https://github.com/zchfeng/base/tree/master/pages/deep-copy)   |
+| [数组](https://github.com/zchfeng/base/issues/2)                                       | [浏览器缓存](https://github.com/zchfeng/Front-End-note/issues/7)                |
+| [cookie 和 webStorage](https://github.com/zchfeng/Front-End-note/issues/8)             | [link 和@import 区别](https://github.com/zchfeng/Front-End-note/issues/9)       |
+| [css 权重等级](https://github.com/zchfeng/Front-End-note/issues/10)                    | [浏览器发起 http 请求流程](https://github.com/zchfeng/Front-End-note/issues/11) |
+| [导航流程：从输入 url 到页面展示](https://github.com/zchfeng/Front-End-note/issues/12) |
 
 # React
 
@@ -49,17 +50,17 @@
 
 # Webpack
 
-| notes        | notes        |
-| :----------- | :----------- |
-| webpack 原理 | webpack 搭建 |
-| 实现 loader  | 实现 plugin  |
+| Reference                                                          | Reference                                                    |
+| :----------------------------------------------------------------- | :----------------------------------------------------------- |
+| [webpack 原理](https://github.com/zchfeng/Front-End-note/issues/6) | [webpack 搭建](https://github.com/Wscats/articles/issues/65) |
+| [实现 loader、plugin](https://github.com/zchfeng/webpack_note)     |
 
 # UI
 
 | Reference                                                            | Reference                                                |
 | :------------------------------------------------------------------- | :------------------------------------------------------- |
 | [element-ui](https://element.eleme.io/#/zh-CN/component/time-picker) | [Ant Design](https://ant.design/components/overview-cn/) |
-| [Vant](https://vant-contrib.gitee.io/vant/#/zh-CN/)                  |
+| [Vant](https://vant-contrib.gitee.io/vant/#/zh-CN/)                  | [zarm](https://zarm.design/#/components/input)           |
 
 # 其他
 
