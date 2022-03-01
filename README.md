@@ -3,7 +3,7 @@
  * @Author: chengfengZeng
  * @Date: 2022-01-24 15:44:22
  * @LastEditors: chengfengZeng
- * @LastEditTime: 2022-02-17 17:12:17
+ * @LastEditTime: 2022-02-28 16:27:03
 -->
 
 # Javascript
@@ -20,10 +20,11 @@
 
 # React
 
-| notes                                                             | notes                                                              |
-| :---------------------------------------------------------------- | :----------------------------------------------------------------- |
-| React 实现原理                                                    | hooks 实现原理                                                     |
-| [React-Redux](https://github.com/zchfeng/Front-End-note/issues/2) | [React-Router](https://github.com/zchfeng/Front-End-note/issues/3) |
+| notes                                                                        | notes                                                              |
+| :--------------------------------------------------------------------------- | :----------------------------------------------------------------- |
+| React 实现原理                                                               | hooks 实现原理                                                     |
+| [React-Redux](https://github.com/zchfeng/Front-End-note/issues/2)            | [React-Router](https://github.com/zchfeng/Front-End-note/issues/3) |
+| [super 和 super(props)](https://github.com/zchfeng/Front-End-note/issues/12) |
 
 # Vue
 
@@ -31,6 +32,7 @@
 | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------ |
 | [模拟 Vue2 的响应式原理](https://github.com/zchfeng/base/tree/master/pages/vue2-mode) | [Vue diff 算法](https://www.cnblogs.com/wind-lanyan/p/9061684.html) |
 | [JS 模板引擎](https://github.com/zchfeng/Front-End-note/issues/1)                     | [Vuex](https://github.com/zchfeng/Front-End-note/issues/4)          |
+| [Vue 面试题总结](http://github.com/zchfeng/Front-End-note/issues/13)                  |
 
 # Taro、小程序
 
