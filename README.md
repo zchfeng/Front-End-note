@@ -69,7 +69,7 @@
 | Reference             | Reference      |
 | :-------------------- | :------------- |
 | 微前端-乾坤           | 实现一个脚手架 |
-| 前端桌面应用-election |
+| 前端桌面应用-election |  [Jenkins自动化部署](https://github.com/zchfeng/Front-End-note/tree/main/jenkins)|
 
 # 一些业务功能
 
