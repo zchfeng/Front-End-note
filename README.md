@@ -66,13 +66,13 @@
 
 # 其他
 
-| Reference             | Reference      |
-| :-------------------- | :------------- |
-| 微前端-乾坤           | 实现一个脚手架 |
-| 前端桌面应用-election |  [Jenkins自动化部署](https://github.com/zchfeng/Front-End-note/tree/main/jenkins)|
+| Reference             | Reference                                                                         |
+| :-------------------- | :-------------------------------------------------------------------------------- |
+| 微前端-乾坤           | 实现一个脚手架                                                                    |
+| 前端桌面应用-election | [Jenkins 自动化部署](https://github.com/zchfeng/Front-End-note/tree/main/jenkins) |
 
 # 一些业务功能
 
-| notes                                                                      | notes |
-| :------------------------------------------------------------------------- | :---- |
-| [瀑布流](https://github.com/zchfeng/base/tree/master/pages/waterfall-flow) |
+| notes                                                                      | notes                                                               |
+| :------------------------------------------------------------------------- | :------------------------------------------------------------------ |
+| [瀑布流](https://github.com/zchfeng/base/tree/master/pages/waterfall-flow) | [自适应输入框](https://github.com/zchfeng/Front-End-note/issues/16) |
