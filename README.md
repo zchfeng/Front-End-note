@@ -40,6 +40,14 @@
 | :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
 | [小程序授权流程](https://github.com/zchfeng/base/tree/master/pages/wx-auth) | [微信 JSSDK](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/JS-SDK.html) |
 
+# 设计原则-设计模式
+
+| notes                                                               | notes                                                               |
+| :------------------------------------------------------------------ | :------------------------------------------------------------------ |
+| [单一原则](https://github.com/zchfeng/Front-End-note/issues/19)     | [开闭原则](https://github.com/zchfeng/Front-End-note/issues/20)     |
+| [里氏替换原则](https://github.com/zchfeng/Front-End-note/issues/17) | [迪米特原则](https://github.com/zchfeng/Front-End-note/issues/18)   |
+| [接口隔离原则](https://github.com/zchfeng/Front-End-note/issues/21) | [依赖倒置原则](https://github.com/zchfeng/Front-End-note/issues/22) |
+
 # 算法
 
 | notes                                                                                                                                                                                                                          | notes                                                                 |
@@ -76,3 +84,10 @@
 | notes                                                                      | notes                                                               |
 | :------------------------------------------------------------------------- | :------------------------------------------------------------------ |
 | [瀑布流](https://github.com/zchfeng/base/tree/master/pages/waterfall-flow) | [自适应输入框](https://github.com/zchfeng/Front-End-note/issues/16) |
+
+# 软件推荐
+
+| Reference                                                              | Reference                                                                   |
+| :--------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
+| [Fiddler](https://blog.csdn.net/qq_42961150/article/details/122545929) | [Charles](https://blog.csdn.net/qq_41868500/article/details/120754874)      |
+| [postman]()                                                            | [SwitchHosts](https://blog.csdn.net/libusi001/article/details/108516673#t1) |
