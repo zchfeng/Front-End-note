@@ -28,11 +28,11 @@
 
 # Vue
 
-| notes                                                                                 | notes                                                               |
-| :------------------------------------------------------------------------------------ | :------------------------------------------------------------------ |
-| [模拟 Vue2 的响应式原理](https://github.com/zchfeng/base/tree/master/pages/vue2-mode) | [Vue diff 算法](https://www.cnblogs.com/wind-lanyan/p/9061684.html) |
-| [JS 模板引擎](https://github.com/zchfeng/Front-End-note/issues/1)                     | [Vuex](https://github.com/zchfeng/Front-End-note/issues/4)          |
-| [Vue 面试题总结](http://github.com/zchfeng/Front-End-note/issues/13)                  |
+| notes                                                                                 | notes                                                                                  |
+| :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------- |
+| [模拟 Vue2 的响应式原理](https://github.com/zchfeng/base/tree/master/pages/vue2-mode) | [细说 Vue 响应式原理的 10 个细节！](https://mp.weixin.qq.com/s/Qt3PoFCqX0Yc8OA68z0csQ) |
+| [Vue diff 算法](https://www.cnblogs.com/wind-lanyan/p/9061684.html)                   | [JS 模板引擎](https://github.com/zchfeng/Front-End-note/issues/1)                      |
+| [Vuex](https://github.com/zchfeng/Front-End-note/issues/4)                            | [Vue 面试题总结](http://github.com/zchfeng/Front-End-note/issues/13)                   |
 
 # Taro、小程序
 
@@ -60,10 +60,10 @@
 
 # Webpack
 
-| Reference                                                          | Reference                                                    |
-| :----------------------------------------------------------------- | :----------------------------------------------------------- |
-| [webpack 原理](https://github.com/zchfeng/Front-End-note/issues/6) | [webpack 搭建](https://github.com/Wscats/articles/issues/65) |
-| [实现 loader、plugin](https://github.com/zchfeng/webpack_note)     |
+| Reference                                                          | Reference                                                                              |
+| :----------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| [webpack 原理](https://github.com/zchfeng/Front-End-note/issues/6) | [webpack 搭建](https://github.com/Wscats/articles/issues/65)                           |
+| [实现 loader、plugin](https://github.com/zchfeng/webpack_note)     | [package.json 和 package-lock.json](https://mp.weixin.qq.com/s/FmzMtPjbNXz7RsPyBAFQSg) |
 
 # UI
 
