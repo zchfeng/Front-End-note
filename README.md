@@ -84,6 +84,7 @@
 | notes                                                                      | notes                                                               |
 | :------------------------------------------------------------------------- | :------------------------------------------------------------------ |
 | [瀑布流](https://github.com/zchfeng/base/tree/master/pages/waterfall-flow) | [自适应输入框](https://github.com/zchfeng/Front-End-note/issues/16) |
+| react-datasheet: React 的轻量级、可编辑的电子表格/数据表格组件| 
 
 # 软件推荐
 
@@ -91,3 +92,11 @@
 | :--------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
 | [Fiddler](https://blog.csdn.net/qq_42961150/article/details/122545929) | [Charles](https://blog.csdn.net/qq_41868500/article/details/120754874)      |
 | [postman]()                                                            | [SwitchHosts](https://blog.csdn.net/libusi001/article/details/108516673#t1) |
+
+# 富文本组件
+
+| Reference                                                              | Reference                                                                   |
+| :--------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
+| [Quill](https://www.npmjs.com/package/react-quill)                                                            | [TinyEditor](https://tiny-editor-v3.github.io/) |
+[wangEditor](https://www.wangeditor.com/) |
+
